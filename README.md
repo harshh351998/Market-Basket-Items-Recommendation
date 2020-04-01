@@ -1,8 +1,10 @@
 # Market-Basket-Recommendation
 This project provide the retailer with information to understand the purchase behaviour of a buyer and recommends
 products to user on their purchase history.
-· Analysed the market items data by using pandas module.
-· Eliminated the missing values and prepared the training data.
-· Trained and tested the data by using sorting functions.
-· Prepared the recommendation model by using the concept of cosine similarity.
-· Visualization is carried out by showing the output data in forms graphs.
+
+## Objectives
+1 Analysed the market items data by using pandas module.
+2 Eliminated the missing values and prepared the training data.
+3Trained and tested the data by using sorting functions.
+4 Prepared the recommendation model by using the concept of cosine similarity.
+5 Visualization is carried out by showing the output data in forms graphs.
