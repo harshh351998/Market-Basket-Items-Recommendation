@@ -1,8 +1,8 @@
-# Market-Basket-Items-Recommendation
+# Market-Basket-Items-Recommendation:-
 This project provide the retailer with information to understand the purchase behaviour of a buyer and recommends
 products to user on their purchase history.
 
-## Objectives
+## Objectives:-
 1. Analysed the market items data by using pandas module.
 2. Eliminated the missing values and prepared the training data.
 3. Trained and tested the data by using sorting functions.
@@ -11,4 +11,5 @@ products to user on their purchase history.
 
 ### Note:-
 The size of the dataset is large so you can download from kaggle.
-Dataset-link: kaggle.com/c/instacart-market-basket-analysis/data
+Dataset-link:-
+kaggle.com/c/instacart-market-basket-analysis/data
