@@ -1,4 +1,4 @@
-# Market-Basket-Recommendation
+# Market-Basket-Items-Recommendation
 This project provide the retailer with information to understand the purchase behaviour of a buyer and recommends
 products to user on their purchase history.
 
